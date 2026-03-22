@@ -7,7 +7,7 @@ To build a functional, working knowledge of Python 3 over a single weekend, focu
 
 ## 🛠️ Environment Setup
 - **Hardware:** macOS 
-- **Language:** Python 3.12+
+- **Language:** Python 3.11.5+
 - **Installation:** Using Homebrew (`brew install python`)
 - **Virtual Environment:** `venv` to keep dependencies isolated per project.
 
