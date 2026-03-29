@@ -49,3 +49,10 @@ print(x % y) # Modulus (remainder)
 print(x ** y) # Exponentiation
 print(x // y) # Floor Division
 
+# Control Flow
+if (x > y):
+    print(f"{x} is greater than {y}")
+
+for i in range(y):
+    print("LOOP")
+
